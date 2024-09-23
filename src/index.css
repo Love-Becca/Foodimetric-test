@@ -3009,7 +3009,7 @@ All this is done for any sub-level being entered.
 	}
 }
 
-* mobile menu css */ #dl-menu {
+#dl-menu {
 	display: none;
 }
 
